@@ -1,4 +1,4 @@
-This is a landing page I designed using Tailwind. Noah Raffensparger.
+This is a landing page I designed using Tailwind. Please note the responsive design. Noah Raffensparger. 
 
 It is deployed here: 
 https://astounding-gumdrop-620ba7.netlify.app/
